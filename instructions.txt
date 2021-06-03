@@ -1,0 +1,26 @@
+1. Drop "Lunar.xml" into C:\Program Files (x86)\Notepad++\themes 
+or C:\Program Files\Notepad++\themes if your running 32 bit
+
+2. Open Notepad++.
+
+3. Make sure you have the old GLua syntax highlighter installed.
+
+( If you don't have it installed, then go to plugins >> plugin manager and find "Gmod LUA Lexer",
+check it and install. Then close notepad++ and reopen it. )
+
+4. Go to settings >> Style Configurator.
+
+5. Under the select theme dropbox, choose Lunar.
+
+6. Restart notepad++ if needed and your done!
+
+NOTES:
+________
+
+-this WILL overwrite your default theme, no idea why but I am working on a fix
+
+-if your text is surrounded with white highlighting you have to:
+  1. go to settings >> style configurator
+  2. go to "Global Override" >> in the second column check "enable global background color"
+
+-if you want more contrast, just change the theme to "Deep Black".
