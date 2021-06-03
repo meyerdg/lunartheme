@@ -1,5 +1,6 @@
 1. Drop "Lunar.xml" into C:\Program Files (x86)\Notepad++\themes 
 or C:\Program Files\Notepad++\themes if your running 32 bit
+or %APPDATA%\Notepad++\Themes if you don't have admin access to your machine (might need to create the Themes directory)
 
 2. Open Notepad++.
 
